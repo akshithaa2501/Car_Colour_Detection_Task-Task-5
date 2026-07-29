@@ -4,9 +4,8 @@
 - The Car Colour Detection System is a computer vision project developed using Python, YOLOv8, OpenCV, and Streamlit.
 
 - The system detects:
-
-Cars
-People
+    - Cars
+    - People
 
 - It also identifies whether a detected car is Blue or Other using HSV colour detection.
 
@@ -184,3 +183,6 @@ Note: If you keep best.pt in the runs/.../weights/ folder instead of the project
 # Conclusion
 
 The Car Colour Detection System combines YOLOv8, OpenCV, and Streamlit to detect cars and people in traffic images. After detecting cars, HSV colour analysis is used to classify each car as Blue or Other. The application provides a simple interface for uploading images, viewing detection results, and downloading the processed output, making it suitable for traffic monitoring and educational computer vision projects.
+
+# Dataset Link
+https://drive.google.com/drive/folders/12FBeTjVxfzJ3a-WYki3aI_0hMbivfnQ3?usp=sharing
